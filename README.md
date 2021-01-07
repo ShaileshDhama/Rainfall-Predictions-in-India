@@ -103,28 +103,28 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 ![Rainfall in Subdivisions of India](./RAIN_44.png)
 
 #### Annual Rainfall in Subdivisions of India
-![Annual Rainfall in Subdivisions of India](./RAIN_45.png)
+![Annual Rainfall in Subdivisions of India](./RAIN_46.png)
 
 #### Subdivision wise Average Annual Rainfall
-![Subdivision wise Average Annual Rainfall](./RAIN_46.png)
+![Subdivision wise Average Annual Rainfall](./RAIN_47.png)
 
 #### Monthly Rainfall in India
-![Monthly Rainfall in India](./RAIN_47.png)
+![Monthly Rainfall in India](./RAIN_48.png)
 
 #### Kerala Annual Rainfall from Year 1901 to 2015
-![Kerala Annual Rainfall from Year 1901 to 2015](./RAIN_48.png)
+![Kerala Annual Rainfall from Year 1901 to 2015](./RAIN_49.png)
 
 #### Rainfall in Districts of Kerala
-![Rainfall in Districts of Kerala](./RAIN_49.png)
+![Rainfall in Districts of Kerala](./RAIN_50.png)
 
 #### Districts with Minumum Rainfall in India
-![Districts with Minumum Rainfall in India](./RAIN_50.png)
+![Districts with Minumum Rainfall in India](./RAIN_51.png)
 
 #### Districts with Maximum Rainfall in India
-![Districts with Maximum Rainfall in India](./RAIN_51.png)
+![Districts with Maximum Rainfall in India](./RAIN_52.png)
 
 #### Places with Heavy and Scanty Rainfall in India
-![Places with Heavy and Scanty Rainfall in India](./RAIN_52.png)
+![Places with Heavy and Scanty Rainfall in India](./RAIN_53.png)
 
 ### For further information:
 
