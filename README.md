@@ -93,17 +93,38 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 ![Annual Rainfall of different states](./RAIN_40.png)
 ![Annual Rainfall of different states](./RAIN_41.png)
 
-#### Results of Model performance
-![Results of Model performance](./MUSHROOM_7.png)
+#### Annual Rainfall in India from Year 1901 to 2015
+![Annual Rainfall in India from Year 1901 to 2015](./RAIN_42.png)
 
-#### Loss during training
-![Loss during training](./MUSHROOM_8.png)
+#### Seasonal Rainfall from Year 1901 to 2015
+![Seasonal Rainfall from Year 1901 to 2015](./RAIN_43.png)
 
-#### Accuracy during training
-![Accuracy during training](./MUSHROOM_9.png)
+#### Rainfall in Subdivisions of India
+![Rainfall in Subdivisions of India](./RAIN_44.png)
 
-#### Accuracy on test set
-![Accuracy on test set](./MUSHROOM_10.png)
+#### Annual Rainfall in Subdivisions of India
+![Annual Rainfall in Subdivisions of India](./RAIN_45.png)
+
+#### Subdivision wise Average Annual Rainfall
+![Subdivision wise Average Annual Rainfall](./RAIN_46.png)
+
+#### Monthly Rainfall in India
+![Monthly Rainfall in India](./RAIN_47.png)
+
+#### Kerala Annual Rainfall from Year 1901 to 2015
+![Kerala Annual Rainfall from Year 1901 to 2015](./RAIN_48.png)
+
+#### Rainfall in Districts of Kerala
+![Rainfall in Districts of Kerala](./RAIN_49.png)
+
+#### Districts with Minumum Rainfall in India
+![Districts with Minumum Rainfall in India](./RAIN_50.png)
+
+#### Districts with Maximum Rainfall in India
+![Districts with Maximum Rainfall in India](./RAIN_51.png)
+
+#### Places with Heavy and Scanty Rainfall in India
+![Places with Heavy and Scanty Rainfall in India](./RAIN_52.png)
 
 ### For further information:
 
