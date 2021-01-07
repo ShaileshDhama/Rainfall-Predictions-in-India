@@ -41,19 +41,57 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
            
 ## RESULTS :
 
-#### Displaying images from each class
-![Displaying images from each class](./MUSHROOM_1.png)
+#### Percent missing data by feature
+![Percent missing data by feature](./RAIN_1.png)
 
-#### Res-Net50 model summary
-![Res-Net50 model summary](./MUSHROOM_2.png)
-![Res-Net50 model summary](./MUSHROOM_3.png)
+#### Rainfall per month
+![Rainfall per month](./RAIN_2.png)
 
-#### Sequential model with the final dense layer
-![Sequential model with the final dense layer](./MUSHROOM_4.png)
+#### Annual Ranifall over 120 years
+![Annual Ranifall over 120 years](./RAIN_3.png)
 
-#### Sequential model training
-![Sequential model training](./MUSHROOM_5.png)
-![Sequential model training](./MUSHROOM_6.png)
+
+#### Monthly Ranifall over 120 years
+![Monthly Ranifall over 120 years](./RAIN_4.png)
+![Monthly Ranifall over 120 years](./RAIN_5.png)
+
+#### Annual Rainfall of different states
+![Annual Rainfall of different states](./RAIN_6.png)
+![Annual Rainfall of different states](./RAIN_7.png)
+![Annual Rainfall of different states](./RAIN_8.png)
+![Annual Rainfall of different states](./RAIN_9.png)
+![Annual Rainfall of different states](./RAIN_10.png)
+![Annual Rainfall of different states](./RAIN_11.png)
+![Annual Rainfall of different states](./RAIN_12.png)
+![Annual Rainfall of different states](./RAIN_13.png)
+![Annual Rainfall of different states](./RAIN_14.png)
+![Annual Rainfall of different states](./RAIN_15.png)
+![Annual Rainfall of different states](./RAIN_16.png)
+![Annual Rainfall of different states](./RAIN_17.png)
+![Annual Rainfall of different states](./RAIN_18.png)
+![Annual Rainfall of different states](./RAIN_19.png)
+![Annual Rainfall of different states](./RAIN_20.png)
+![Annual Rainfall of different states](./RAIN_21.png)
+![Annual Rainfall of different states](./RAIN_22.png)
+![Annual Rainfall of different states](./RAIN_23.png)
+![Annual Rainfall of different states](./RAIN_24.png)
+![Annual Rainfall of different states](./RAIN_25.png)
+![Annual Rainfall of different states](./RAIN_26.png)
+![Annual Rainfall of different states](./RAIN_27.png)
+![Annual Rainfall of different states](./RAIN_28.png)
+![Annual Rainfall of different states](./RAIN_29.png)
+![Annual Rainfall of different states](./RAIN_30.png)
+![Annual Rainfall of different states](./RAIN_31.png)
+![Annual Rainfall of different states](./RAIN_32.png)
+![Annual Rainfall of different states](./RAIN_33.png)
+![Annual Rainfall of different states](./RAIN_34.png)
+![Annual Rainfall of different states](./RAIN_35.png)
+![Annual Rainfall of different states](./RAIN_36.png)
+![Annual Rainfall of different states](./RAIN_37.png)
+![Annual Rainfall of different states](./RAIN_38.png)
+![Annual Rainfall of different states](./RAIN_39.png)
+![Annual Rainfall of different states](./RAIN_40.png)
+![Annual Rainfall of different states](./RAIN_41.png)
 
 #### Results of Model performance
 ![Results of Model performance](./MUSHROOM_7.png)
@@ -69,7 +107,7 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 
 ### For further information:
 
-Please review the narrative of our analysis in [our jupyter notebook](./Classification%20of%20Agaricus%20Bisporus%20Genuses.ipynb)
+Please review the narrative of our analysis in [our jupyter notebook](./Rainfall%20Predictions%20in%20India.ipynb)
 
 For any additional questions, please contact **shaileshettyd@gmail.com)
 
@@ -77,7 +115,7 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 
 ```
 ├── README.md                                                                                                   <- The top-level README for reviewers
-├── Classification of Agaricus Bisporus Genuses.ipynb                                                           <- narrative documentation of analysis
+├── Rainfall%20Predictions%20in%20India.ipynb                                                                   <- narrative documentation of analysis
 ├── https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images                                 <- Dataset
 └── images                                                                                                      <- generated from code
 ```
@@ -86,10 +124,10 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 ```
 @misc{Shailesh:2020,
   Author = {Shailesh Dhama},
-  Title = {Classification-of-Agaricus-Bisporus-Genuses},
+  Title = {Rainfall-Predictions-in-India},
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/Classification-of-Agaricus-Bisporus-Genuses}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/Rainfall-Predictions-in-India}}
 }
 ```
