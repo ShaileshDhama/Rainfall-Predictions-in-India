@@ -112,19 +112,38 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 ![Monthly Rainfall in India](./RAIN_48.png)
 
 #### Kerala Annual Rainfall from Year 1901 to 2015
-![Kerala Annual Rainfall from Year 1901 to 2015](./RAIN_49.png)
+![Kerala Annual Rainfall from Year 1901 to 2015](./RAIN_50.png)
 
 #### Rainfall in Districts of Kerala
-![Rainfall in Districts of Kerala](./RAIN_50.png)
+![Rainfall in Districts of Kerala](./RAIN_51.png)
 
 #### Districts with Minumum Rainfall in India
-![Districts with Minumum Rainfall in India](./RAIN_51.png)
+![Districts with Minumum Rainfall in India](./RAIN_52.png)
 
 #### Districts with Maximum Rainfall in India
-![Districts with Maximum Rainfall in India](./RAIN_52.png)
+![Districts with Maximum Rainfall in India](./RAIN_53.png)
 
 #### Places with Heavy and Scanty Rainfall in India
-![Places with Heavy and Scanty Rainfall in India](./RAIN_53.png)
+![Places with Heavy and Scanty Rainfall in India](./RAIN_54.png)
+
+#### Correlation Matric
+![Correlation Matric](./RAIN_94.png)
+
+#### Linear Model predictions
+![Linear Model predictions](./RAIN_95.png)
+![Linear Model predictions](./RAIN_97.png)
+
+#### SVM predictions
+![SVM predictions](./RAIN_100.png)
+![SVM predictions](./RAIN_101.png)
+
+#### Neural Networks predictions
+![Neural Networks predictions](./RAIN_104.png)
+![Neural Networks predictions](./RAIN_105.png)
+![Neural Networks predictions](./RAIN_106.png)
+
+#### Final Inference
+![Final Inference](./RAIN_107.png)
 
 ### For further information:
 
