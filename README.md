@@ -2,8 +2,6 @@
 ## To Predict Rainfall in Towns of India
 
 **Author** : SHAILESH DHAMA
-
-Study and classify the 9 categories of most common Northern European mushrooms genuses.
                 
 ### Dataset :
 
