@@ -19,23 +19,35 @@
 
 ## Approach:
 
-### Data processing & Exploratory Data Analysis:
+### Data Processing & Exploratory Data Analysis:
 
-    1.Import Libraries
-    2.Loading and processing data
-    3.Predictions
-        3.1 Linear Model
-        3.2 Support Vector Machine
-        3.3 Artificial Neural Networks
-        
+1. Import Libraries
+2. Loading and processing data
+3. Predictions
+    3.1 Linear Model
+    3.2 Support Vector Machine
+    3.3 Artificial Neural Networks
+
 #### 3.1 Linear Model      
-Linear model is used in different ways according to the context. The most common occurrence is in connection with regression models and the term is often taken as synonymous with linear regression model. However, the term is also used in time series analysis with a different meaning. In each case, the designation "linear" is used to identify a subclass of models for which substantial reduction in the complexity of the related statistical theory is possible.
+The linear model is used in different ways according to the context. The most common occurrence is in connection with regression models, and the term is often taken as synonymous with linear regression models. However, the term is also used in time series analysis with a different meaning. In each case, the designation "linear" is used to identify a subclass of models for which a substantial reduction in the complexity of the related statistical theory is possible.
+
+The linear regression model can be represented mathematically as:
+
+$y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_p x_p + \epsilon$
+
+Where:
+- $y$ is the dependent variable
+- $x_1, x_2, ..., x_p$ are independent variables
+- $\beta_0, \beta_1, \beta_2, ..., \beta_p$ are coefficients
+- $\epsilon$ is the error term
+
+The goal is to estimate the values of the coefficients such that the error term is minimized.
 
 #### 3.2 Support Vector Machine
-Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for both classification and regression challenges. We plot each data item as a point in n-dimensional space (where n is number of features) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well. A Support Vector Machine models the situation by creating a feature space, which is a finite-dimensional vector space, each dimension of which represents a "feature" of a particular object. The goal of the SVM is to train a model that assigns new unseen objects into a particular category. It achieves this by creating a linear partition of the feature space into two categories. Based on the features in the new unseen objects, it places an object "above" or "below" the separation plane, leading to a categorization. It is non-probabilistic, because the features in the new objects fully determine its location in feature space and there is no stochastic element involved. A subset of training data lies on Biased and Unbiased Hyper planes
+Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for both classification and regression challenges. We plot each data item as a point in n-dimensional space (where n is several features), with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well. A Support Vector Machine models the situation by creating a feature space, which is a finite-dimensional vector space, each dimension of which represents a "feature" of a particular object. The SVM aims to train a model that assigns new unseen objects into a particular category. It achieves this by creating a linear partition of the feature space into two categories. Based on the features in the new unseen objects, it places an object "above" or "below" the separation plane, leading to a categorization. It is non-probabilistic because the features in the new objects fully determine their location in the feature space, and no stochastic element is involved. A subset of training data lies on Biased and Unbiased Hyperplanes.
 
 #### 3.3 Artificial Neural Networks
-A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria.
+A neural network is a series of algorithms that endeavours to recognize underlying relationships in a data set through a process that mimics how the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial. Neural networks can adapt to changing the input to generate the best possible result without redesigning the output criteria.
            
 ## RESULTS :
 
